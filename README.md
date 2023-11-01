@@ -2,8 +2,6 @@
 
 🚀 Apasionado por el desarrollo web
 
-![Desarrollo Web](Enlace a una imagen representativa de desarrollo web)
-
 ## Experiencia
 
 - **Desarrollo Front-End:** Creación de interfaces de usuario atractivas y funcionales con HTML, CSS, y JavaScript.
